@@ -1,0 +1,83 @@
+2021-04-19 16:10:24.140 INFO ASP.webpage_wechat_aspx: 微信Get请求
+2021-04-19 16:10:24.143 INFO ASP.webpage_wechat_aspx: 微信验证请求已经响应
+2021-04-19 16:12:44.218 DEBUG ASP.webpage_getogv_aspx: Request.Headers is 
+Connection:keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Host:localhost:65294
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+sec-ch-ua:" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile:?0
+Upgrade-Insecure-Requests:1
+Sec-Fetch-Site:none
+Sec-Fetch-Mode:navigate
+Sec-Fetch-User:?1
+Sec-Fetch-Dest:document
+
+2021-04-19 16:14:50.410 INFO ASP.smilewall_aspx: page PostData
+2021-04-19 16:15:20.164 INFO NHibernateHelper: 表单数据是：server = localhost; user id = root; password = TianGuangLianSYYJ_WZS; database = VoicePostOffice;port=3306;character set=utf8
+2021-04-19 16:15:21.249 DEBUG ASP.webpage_voiceoffice_clientgetmp4_aspx: ******************没有找到数据*****************
+2021-04-19 16:16:34.560 INFO ASP.smilewall_aspx: page PostData
+2021-04-19 16:16:37.238 INFO NHibernateHelper: 表单数据是：server = localhost; user id = root; password = TianGuangLianSYYJ_WZS; database = VoicePostOffice;port=3306;character set=utf8
+2021-04-19 16:16:38.184 DEBUG ASP.webpage_voiceoffice_clientgetmp4_aspx: ******************没有找到数据*****************
+2021-04-19 16:17:58.079 DEBUG ASP.webpage_getogv_aspx: Request.Headers is 
+Connection:keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Host:localhost:65294
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+sec-ch-ua:" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile:?0
+Upgrade-Insecure-Requests:1
+Sec-Fetch-Site:none
+Sec-Fetch-Mode:navigate
+Sec-Fetch-User:?1
+Sec-Fetch-Dest:document
+
+2021-04-19 16:18:27.854 DEBUG ASP.webpage_getogv_aspx: Request.Headers is 
+Connection:keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Host:localhost:65294
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+sec-ch-ua:" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile:?0
+Upgrade-Insecure-Requests:1
+Sec-Fetch-Site:none
+Sec-Fetch-Mode:navigate
+Sec-Fetch-User:?1
+Sec-Fetch-Dest:document
+
+2021-04-19 16:21:03.122 DEBUG ASP.webpage_getogv_aspx: Request.Headers is 
+Connection:keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Host:localhost:65294
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+sec-ch-ua:" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile:?0
+Upgrade-Insecure-Requests:1
+Sec-Fetch-Site:none
+Sec-Fetch-Mode:navigate
+Sec-Fetch-User:?1
+Sec-Fetch-Dest:document
+
+2021-04-19 16:21:51.521 DEBUG ASP.webpage_getogv_aspx: Request.Headers is 
+Connection:keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Host:localhost:65294
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+sec-ch-ua:" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile:?0
+Upgrade-Insecure-Requests:1
+Sec-Fetch-Site:none
+Sec-Fetch-Mode:navigate
+Sec-Fetch-User:?1
+Sec-Fetch-Dest:document
+

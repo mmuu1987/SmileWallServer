@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommonTag>
+  <!--保存mp4本地地址 -->
+  <SaveMp4Path>\mp4</SaveMp4Path>
+  <!--保存mp3本地地址 -->
+  <SaveMp3Path>\mp3</SaveMp3Path>
+<!--保存OGV格式视频的路径地址-->
+  <SaveOgvPath>\Ogv</SaveOgvPath>
+  <!--保存照片的路径,一般放在程序根目录下-->
+  <SavePicturePath>\Picture</SavePicturePath>
+  <!--获取的最大站点数-->
+  <MaxSiteCount>6</MaxSiteCount>
+  <!--链接到的数据库的名称-->
+  <Smilewall>VoicePostOffice</Smilewall>
+  <!--链接到视频数据库的表单-->
+  <Table>VoicePostOffice</Table>
+  <!--链接到的数据库的用户名-->
+  <Username>root</Username>
+  <!--链接到数据库的密码-->
+  <Password>TianGuangLianSYYJ_WZS</Password>
+<!--数据库的地址-->
+  <MySqlServer>localhost</MySqlServer>
+<!--链接到数据库的端口-->
+  <MySqlPort>3306</MySqlPort>
+  
+ 
+</CommonTag>
